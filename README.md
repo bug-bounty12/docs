@@ -1,2 +1,1 @@
-# docs
-Mergify Public Documentation
+This is Hackerone Bug Bounty Test
